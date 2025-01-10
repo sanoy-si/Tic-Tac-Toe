@@ -1,11 +1,3 @@
-;This project was made by:
-    ;1. Yonas Sintayehu - UGR/25397/14 
-    ;2. Fahmi Dinsefa - UGR/25301/14
-    ;3. Naol Fikadu - UGR/25588/14
-    ;4. Kerob Gebru - UGR/25714/14
-    ;5. Dureti Gnafero - UGR/25531/14
-
-
 org 100h
 
 start:
